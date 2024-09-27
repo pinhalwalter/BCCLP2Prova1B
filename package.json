@@ -1,7 +1,7 @@
 {
   "name": "projetoeleicoes2024",
   "version": "0.1.0",
-  "homepage": "http://pinhalwalter.github.io/BCCLP2Prova1",
+  "homepage": "http://pinhalwalter.github.io/BCCLP2Prova1B",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
