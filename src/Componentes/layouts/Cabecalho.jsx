@@ -5,9 +5,9 @@ export default function Cabecalho(props) {
 
     return (
         <Container>
-            <Row>
-                <Col>
-                    <Image height={250} src={imgCabecalho} />
+            <Row className="justify-content-center">
+                <Col xs="auto">
+                    <Image  height={250} src={imgCabecalho} />
                 </Col>
             </Row>
         </Container>

@@ -3,7 +3,7 @@ import { Container, Button, Image } from "react-bootstrap";
 export default function DetalhesCandidato({ candidato, voltar }) {
     return (
         <Container>
-            <h1>Detalhes Candidato</h1>
+            <h1>Detalhes Do Candidato</h1>
             <Image src={candidato.avatar} rounded height="300" width="300" />
             <h2>{candidato.nome}</h2>
             <p>Email: {candidato.email}</p>
